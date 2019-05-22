@@ -1,2 +1,2 @@
 # dsa
-Data Structures and Algorithms
+Solutions to common Data Structures and Algorithm problems
